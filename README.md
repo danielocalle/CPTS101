@@ -1,3 +1,3 @@
 # CPTS101
-Name: DANIEL CALLE
-WSU Email: daniel.calle@wsu.edu
+Daniel Calle
+daniel.calle@wsu.edu
